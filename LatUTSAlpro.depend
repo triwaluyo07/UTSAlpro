@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1523290887 source:d:\latutsalpro\fungsi.c
+	"header.h"
+
+1523292205 d:\latutsalpro\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1523292205 source:d:\latutsalpro\main.c
+	"header.h"
+
